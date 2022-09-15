@@ -1,0 +1,19 @@
+body {
+    font-family: "Nunito", sans-serif;
+    background-color: rgb(56, 102, 77);
+}
+
+img {
+    width: 110%;
+    height: 120%;
+    padding-top: 5%;
+    padding-bottom: 25%;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    border-radius: 2rem;
+    margin: 0 auto;
+    box-shadow: 0 20px 40px rgba(0.15, 0.15, 0.15, 0.15);
+}
